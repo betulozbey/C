@@ -1,0 +1,592 @@
+lease 292.168.10.11 {
+  starts epoch 1531403945; # Thu Jul 12 16:59:05 2018
+  ends epoch 1531404572; # Thu Jul 12 17:09:32 2018
+  tstp epoch 1531404572; # Thu Jul 12 17:09:32 2018
+  cltt epoch 1531403945; # Thu Jul 12 16:59:05 2018
+  binding state free;
+  hardware ethernet 00:0c:29:83:82:f9;
+  uid "\001\000\014)\203\202\371";
+}
+lease 192.168.10.10 {
+  starts epoch 1531462308; # Fri Jul 13 09:11:48 2018
+  ends epoch 1531483908; # Fri Jul 13 15:11:48 2018
+  tstp epoch 1531483908; # Fri Jul 13 15:11:48 2018
+  cltt epoch 1531462308; # Fri Jul 13 09:11:48 2018
+  binding state free;
+  hardware ethernet a8:60:b6:2b:b0:64;
+  uid "\001\250`\266+\260d";
+}
+lease 192.168.10.12 {
+  starts epoch 1532602612; # Thu Jul 26 13:56:52 2018
+  ends epoch 1532609343; # Thu Jul 26 15:49:03 2018
+  tstp epoch 1532609343; # Thu Jul 26 15:49:03 2018
+  cltt epoch 1532602612; # Thu Jul 26 13:56:52 2018
+  binding state free;
+  hardware ethernet a8:60:b6:2d:f3:61;
+  uid "\001\250`\266-\363a";
+}
+lease 192.168.10.15 {
+  starts epoch 1532593354; # Thu Jul 26 11:22:34 2018
+  ends epoch 1532614954; # Thu Jul 26 17:22:34 2018
+  tstp epoch 1532614954; # Thu Jul 26 17:22:34 2018
+  cltt epoch 1532593648; # Thu Jul 26 11:27:28 2018
+  binding state free;
+  hardware ethernet dc:85:de:bb:c5:47;
+  uid "\001\334\205\336\273\305G";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.10.17 {
+  starts epoch 1532599229; # Thu Jul 26 13:00:29 2018
+  ends epoch 1532620829; # Thu Jul 26 19:00:29 2018
+  tstp epoch 1532620829; # Thu Jul 26 19:00:29 2018
+  cltt epoch 1532599229; # Thu Jul 26 13:00:29 2018
+  binding state free;
+  hardware ethernet 6c:96:cf:a6:e6:0e;
+  uid "\001l\226\317\246\346\016";
+}
+lease 192.168.10.25 {
+  starts epoch 1532617659; # Thu Jul 26 18:07:39 2018
+  ends epoch 1532639259; # Fri Jul 27 00:07:39 2018
+  tstp epoch 1532639259; # Fri Jul 27 00:07:39 2018
+  cltt epoch 1532617737; # Thu Jul 26 18:08:57 2018
+  binding state free;
+  hardware ethernet 00:e0:67:05:95:5c;
+  uid "\001\000\340g\005\225\\";
+}
+lease 192.168.10.16 {
+  starts epoch 1533020804; # Tue Jul 31 10:06:44 2018
+  ends epoch 1533042404; # Tue Jul 31 16:06:44 2018
+  tstp epoch 1533042404; # Tue Jul 31 16:06:44 2018
+  cltt epoch 1533020804; # Tue Jul 31 10:06:44 2018
+  binding state free;
+  hardware ethernet 8c:bf:a6:26:f9:67;
+  uid "\001\214\277\246&\371g";
+  set vendor-class-identifier = "dhcpcd-5.5.6";
+}
+lease 192.168.10.14 {
+  starts epoch 1533021223; # Tue Jul 31 10:13:43 2018
+  ends epoch 1533042823; # Tue Jul 31 16:13:43 2018
+  tstp epoch 1533042823; # Tue Jul 31 16:13:43 2018
+  cltt epoch 1533021223; # Tue Jul 31 10:13:43 2018
+  binding state free;
+  hardware ethernet 58:40:4e:bc:c9:32;
+  uid "\001X@N\274\3112";
+}
+lease 192.168.10.23 {
+  starts epoch 1533021634; # Tue Jul 31 10:20:34 2018
+  ends epoch 1533043234; # Tue Jul 31 16:20:34 2018
+  tstp epoch 1533043234; # Tue Jul 31 16:20:34 2018
+  cltt epoch 1533021634; # Tue Jul 31 10:20:34 2018
+  binding state free;
+  hardware ethernet 30:10:e4:e2:ff:9e;
+  uid "\0010\020\344\342\377\236";
+}
+lease 192.168.10.18 {
+  starts epoch 1533021691; # Tue Jul 31 10:21:31 2018
+  ends epoch 1533043291; # Tue Jul 31 16:21:31 2018
+  tstp epoch 1533043291; # Tue Jul 31 16:21:31 2018
+  cltt epoch 1533021691; # Tue Jul 31 10:21:31 2018
+  binding state free;
+  hardware ethernet d0:7e:35:37:c4:c2;
+  uid "\001\320~57\304\302";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.10.26 {
+  starts epoch 1533021808; # Tue Jul 31 10:23:28 2018
+  ends epoch 1533043408; # Tue Jul 31 16:23:28 2018
+  tstp epoch 1533043408; # Tue Jul 31 16:23:28 2018
+  cltt epoch 1533021808; # Tue Jul 31 10:23:28 2018
+  binding state free;
+  hardware ethernet 58:40:4e:e8:c7:80;
+  uid "\001X@N\350\307\200";
+}
+lease 192.168.10.19 {
+  starts epoch 1533021825; # Tue Jul 31 10:23:45 2018
+  ends epoch 1533043425; # Tue Jul 31 16:23:45 2018
+  tstp epoch 1533043425; # Tue Jul 31 16:23:45 2018
+  cltt epoch 1533021825; # Tue Jul 31 10:23:45 2018
+  binding state free;
+  hardware ethernet 44:d9:e7:6c:22:29;
+  uid "\001D\331\347l\")";
+  set vendor-class-identifier = "ubnt";
+}
+lease 192.168.10.27 {
+  starts epoch 1533021835; # Tue Jul 31 10:23:55 2018
+  ends epoch 1533043435; # Tue Jul 31 16:23:55 2018
+  tstp epoch 1533043435; # Tue Jul 31 16:23:55 2018
+  cltt epoch 1533021835; # Tue Jul 31 10:23:55 2018
+  binding state free;
+  hardware ethernet 00:0c:29:8f:b7:bf;
+  uid "\001\000\014)\217\267\277";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.10.22 {
+  starts epoch 1533021847; # Tue Jul 31 10:24:07 2018
+  ends epoch 1533043447; # Tue Jul 31 16:24:07 2018
+  tstp epoch 1533043447; # Tue Jul 31 16:24:07 2018
+  cltt epoch 1533021847; # Tue Jul 31 10:24:07 2018
+  binding state free;
+  hardware ethernet 58:40:4e:e8:c9:44;
+  uid "\001X@N\350\311D";
+}
+lease 192.168.10.20 {
+  starts epoch 1533022278; # Tue Jul 31 10:31:18 2018
+  ends epoch 1533043878; # Tue Jul 31 16:31:18 2018
+  tstp epoch 1533043878; # Tue Jul 31 16:31:18 2018
+  cltt epoch 1533022278; # Tue Jul 31 10:31:18 2018
+  binding state free;
+  hardware ethernet 58:40:4e:e8:ca:f0;
+  uid "\001X@N\350\312\360";
+}
+lease 192.168.10.21 {
+  starts epoch 1533022389; # Tue Jul 31 10:33:09 2018
+  ends epoch 1533043989; # Tue Jul 31 16:33:09 2018
+  tstp epoch 1533043989; # Tue Jul 31 16:33:09 2018
+  cltt epoch 1533022389; # Tue Jul 31 10:33:09 2018
+  binding state free;
+  hardware ethernet b0:70:2d:d5:2f:d7;
+  uid "\001\260p-\325/\327";
+}
+lease 192.168.10.13 {
+  starts epoch 1533022450; # Tue Jul 31 10:34:10 2018
+  ends epoch 1533044050; # Tue Jul 31 16:34:10 2018
+  tstp epoch 1533044050; # Tue Jul 31 16:34:10 2018
+  cltt epoch 1533022450; # Tue Jul 31 10:34:10 2018
+  binding state free;
+  hardware ethernet 50:b7:c3:3d:e1:15;
+  uid "\001P\267\303=\341\025";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.10.24 {
+  starts epoch 1533024145; # Tue Jul 31 11:02:25 2018
+  ends epoch 1533045745; # Tue Jul 31 17:02:25 2018
+  tstp epoch 1533045745; # Tue Jul 31 17:02:25 2018
+  cltt epoch 1533024145; # Tue Jul 31 11:02:25 2018
+  binding state free;
+  hardware ethernet 14:56:8e:c8:d4:75;
+  uid "\001\024V\216\310\324u";
+  set vendor-class-identifier = "android-dhcp-7.0";
+}
+lease 192.168.11.16 {
+  starts epoch 1531400636; # Thu Jul 12 16:03:56 2018
+  ends epoch 1531422236; # Thu Jul 12 22:03:56 2018
+  tstp epoch 1531422236; # Thu Jul 12 22:03:56 2018
+  cltt epoch 1531400636; # Thu Jul 12 16:03:56 2018
+  binding state free;
+  hardware ethernet 98:01:a7:90:75:19;
+  uid "\001\230\001\247\220u\031";
+}
+lease 192.168.11.30 {
+  starts epoch 1531463198; # Fri Jul 13 09:26:38 2018
+  ends epoch 1531463318; # Fri Jul 13 09:28:38 2018
+  tstp epoch 1531463318; # Fri Jul 13 09:28:38 2018
+  cltt epoch 1531463198; # Fri Jul 13 09:26:38 2018
+  binding state free;
+  hardware ethernet 00:b3:62:25:bb:c7;
+  uid "\001\000\263b%\273\307";
+  client-hostname "asdf-iPhoneu";
+}
+lease 192.168.11.31 {
+  starts epoch 1531463501; # Fri Jul 13 09:31:41 2018
+  ends epoch 1531463621; # Fri Jul 13 09:33:41 2018
+  tstp epoch 1531463621; # Fri Jul 13 09:33:41 2018
+  cltt epoch 1531463501; # Fri Jul 13 09:31:41 2018
+  binding state free;
+  hardware ethernet 1c:39:47:cd:f6:41;
+  set vendor-class-identifier = "PXEClient:Arch:00000:UNDI:002001";
+}
+lease 192.168.11.26 {
+  starts epoch 1531461292; # Fri Jul 13 08:54:52 2018
+  ends epoch 1531482892; # Fri Jul 13 14:54:52 2018
+  tstp epoch 1531482892; # Fri Jul 13 14:54:52 2018
+  cltt epoch 1531461773; # Fri Jul 13 09:02:53 2018
+  binding state free;
+  hardware ethernet fc:db:b3:c0:aa:37;
+  uid "\001\374\333\263\300\2527";
+  set vendor-class-identifier = "android-dhcp-7.0";
+}
+lease 192.168.11.28 {
+  starts epoch 1531462627; # Fri Jul 13 09:17:07 2018
+  ends epoch 1531484227; # Fri Jul 13 15:17:07 2018
+  tstp epoch 1531484227; # Fri Jul 13 15:17:07 2018
+  cltt epoch 1531462627; # Fri Jul 13 09:17:07 2018
+  binding state free;
+  hardware ethernet f0:de:f1:24:84:17;
+  uid "\001\360\336\361$\204\027";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.21 {
+  starts epoch 1531462633; # Fri Jul 13 09:17:13 2018
+  ends epoch 1531484233; # Fri Jul 13 15:17:13 2018
+  tstp epoch 1531484233; # Fri Jul 13 15:17:13 2018
+  cltt epoch 1531462633; # Fri Jul 13 09:17:13 2018
+  binding state free;
+  hardware ethernet 1c:39:47:14:89:ee;
+  uid "\001\0349G\024\211\356";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.22 {
+  starts epoch 1531462640; # Fri Jul 13 09:17:20 2018
+  ends epoch 1531484240; # Fri Jul 13 15:17:20 2018
+  tstp epoch 1531484240; # Fri Jul 13 15:17:20 2018
+  cltt epoch 1531466635; # Fri Jul 13 10:23:55 2018
+  binding state free;
+  hardware ethernet 44:85:00:d9:76:23;
+  uid "\001D\205\000\331v#";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.23 {
+  starts epoch 1531463339; # Fri Jul 13 09:28:59 2018
+  ends epoch 1531484939; # Fri Jul 13 15:28:59 2018
+  tstp epoch 1531484939; # Fri Jul 13 15:28:59 2018
+  cltt epoch 1531466426; # Fri Jul 13 10:20:26 2018
+  binding state free;
+  hardware ethernet 88:63:df:0b:16:45;
+  uid "\001\210c\337\013\026E";
+}
+lease 192.168.11.32 {
+  starts epoch 1531464437; # Fri Jul 13 09:47:17 2018
+  ends epoch 1531486037; # Fri Jul 13 15:47:17 2018
+  tstp epoch 1531486037; # Fri Jul 13 15:47:17 2018
+  cltt epoch 1531464437; # Fri Jul 13 09:47:17 2018
+  binding state free;
+  hardware ethernet 00:1d:92:a9:36:fc;
+  uid "\001\000\035\222\2516\374";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.34 {
+  starts epoch 1531465302; # Fri Jul 13 10:01:42 2018
+  ends epoch 1531486902; # Fri Jul 13 16:01:42 2018
+  tstp epoch 1531486902; # Fri Jul 13 16:01:42 2018
+  cltt epoch 1531466634; # Fri Jul 13 10:23:54 2018
+  binding state free;
+  hardware ethernet e4:b3:18:8e:6b:6a;
+  uid "\001\344\263\030\216kj";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.35 {
+  starts epoch 1531466626; # Fri Jul 13 10:23:46 2018
+  ends epoch 1531488226; # Fri Jul 13 16:23:46 2018
+  tstp epoch 1531488226; # Fri Jul 13 16:23:46 2018
+  cltt epoch 1531466626; # Fri Jul 13 10:23:46 2018
+  binding state free;
+  hardware ethernet b8:ac:6f:41:95:83;
+  uid "\001\270\254oA\225\203";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.37 {
+  starts epoch 1531468021; # Fri Jul 13 10:47:01 2018
+  ends epoch 1531489621; # Fri Jul 13 16:47:01 2018
+  tstp epoch 1531489621; # Fri Jul 13 16:47:01 2018
+  cltt epoch 1531468021; # Fri Jul 13 10:47:01 2018
+  binding state free;
+  hardware ethernet 00:e0:67:05:94:36;
+  uid "\001\000\340g\005\2246";
+}
+lease 192.168.11.27 {
+  starts epoch 1531484546; # Fri Jul 13 15:22:26 2018
+  ends epoch 1531506146; # Fri Jul 13 21:22:26 2018
+  tstp epoch 1531506146; # Fri Jul 13 21:22:26 2018
+  cltt epoch 1531484546; # Fri Jul 13 15:22:26 2018
+  binding state free;
+  hardware ethernet 6c:96:cf:91:57:20;
+  uid "\001l\226\317\221W ";
+}
+lease 192.168.11.39 {
+  starts epoch 1531490886; # Fri Jul 13 17:08:06 2018
+  ends epoch 1531512486; # Fri Jul 13 23:08:06 2018
+  tstp epoch 1531512486; # Fri Jul 13 23:08:06 2018
+  cltt epoch 1531490886; # Fri Jul 13 17:08:06 2018
+  binding state free;
+  hardware ethernet 00:0c:29:83:82:f9;
+  uid "\001\000\014)\203\202\371";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.40 {
+  starts epoch 1531573990; # Sat Jul 14 16:13:10 2018
+  ends epoch 1531595590; # Sat Jul 14 22:13:10 2018
+  tstp epoch 1531595590; # Sat Jul 14 22:13:10 2018
+  cltt epoch 1531574904; # Sat Jul 14 16:28:24 2018
+  binding state free;
+  hardware ethernet 54:27:1e:c9:1e:87;
+  uid "\001T'\036\311\036\207";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.41 {
+  starts epoch 1531576036; # Sat Jul 14 16:47:16 2018
+  ends epoch 1531597636; # Sat Jul 14 22:47:16 2018
+  tstp epoch 1531597636; # Sat Jul 14 22:47:16 2018
+  cltt epoch 1531577869; # Sat Jul 14 17:17:49 2018
+  binding state free;
+  hardware ethernet 40:b8:37:cc:e1:6d;
+  uid "\001@\2707\314\341m";
+  set vendor-class-identifier = "android-dhcp-7.1.1";
+}
+lease 192.168.11.44 {
+  starts epoch 1532956621; # Mon Jul 30 16:17:01 2018
+  ends epoch 1532978221; # Mon Jul 30 22:17:01 2018
+  tstp epoch 1532978221; # Mon Jul 30 22:17:01 2018
+  cltt epoch 1532956621; # Mon Jul 30 16:17:01 2018
+  binding state free;
+  hardware ethernet a8:60:b6:2b:b0:64;
+  uid "\001\250`\266+\260d";
+}
+lease 192.168.11.48 {
+  starts epoch 1533192042; # Thu Aug 02 09:40:42 2018
+  ends epoch 1533213642; # Thu Aug 02 15:40:42 2018
+  tstp epoch 1533213642; # Thu Aug 02 15:40:42 2018
+  cltt epoch 1533192042; # Thu Aug 02 09:40:42 2018
+  binding state free;
+  hardware ethernet e8:2a:44:f6:d7:a3;
+  uid "\001\350*D\366\327\243";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.49 {
+  starts epoch 1533219662; # Thu Aug 02 17:21:02 2018
+  ends epoch 1533241262; # Thu Aug 02 23:21:02 2018
+  tstp epoch 1533241262; # Thu Aug 02 23:21:02 2018
+  cltt epoch 1533219662; # Thu Aug 02 17:21:02 2018
+  binding state free;
+  hardware ethernet 34:68:95:59:12:77;
+  uid "\0014h\225Y\022w";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.19 {
+  starts epoch 1533295407; # Fri Aug 03 14:23:27 2018
+  ends epoch 1533317007; # Fri Aug 03 20:23:27 2018
+  tstp epoch 1533317007; # Fri Aug 03 20:23:27 2018
+  cltt epoch 1533295407; # Fri Aug 03 14:23:27 2018
+  binding state free;
+  hardware ethernet d0:7e:35:37:c4:c2;
+  uid "\001\320~57\304\302";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.33 {
+  starts epoch 1533306019; # Fri Aug 03 17:20:19 2018
+  ends epoch 1533327619; # Fri Aug 03 23:20:19 2018
+  tstp epoch 1533327619; # Fri Aug 03 23:20:19 2018
+  cltt epoch 1533306019; # Fri Aug 03 17:20:19 2018
+  binding state free;
+  hardware ethernet 8c:bf:a6:26:f9:67;
+  uid "\001\214\277\246&\371g";
+  set vendor-class-identifier = "dhcpcd-5.5.6";
+}
+lease 192.168.11.42 {
+  starts epoch 1533549475; # Mon Aug 06 12:57:55 2018
+  ends epoch 1533571075; # Mon Aug 06 18:57:55 2018
+  tstp epoch 1533571075; # Mon Aug 06 18:57:55 2018
+  cltt epoch 1533549475; # Mon Aug 06 12:57:55 2018
+  binding state free;
+  hardware ethernet 14:56:8e:c8:d4:75;
+  uid "\001\024V\216\310\324u";
+  set vendor-class-identifier = "android-dhcp-7.0";
+}
+lease 192.168.11.45 {
+  starts epoch 1533554945; # Mon Aug 06 14:29:05 2018
+  ends epoch 1533576545; # Mon Aug 06 20:29:05 2018
+  tstp epoch 1533576545; # Mon Aug 06 20:29:05 2018
+  cltt epoch 1533554945; # Mon Aug 06 14:29:05 2018
+  binding state free;
+  hardware ethernet 00:0c:29:8f:b7:bf;
+  uid "\001\000\014)\217\267\277";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.43 {
+  starts epoch 1533637356; # Tue Aug 07 13:22:36 2018
+  ends epoch 1533658956; # Tue Aug 07 19:22:36 2018
+  tstp epoch 1533658956; # Tue Aug 07 19:22:36 2018
+  cltt epoch 1533641135; # Tue Aug 07 14:25:35 2018
+  binding state free;
+  hardware ethernet dc:85:de:bb:c5:47;
+  uid "\001\334\205\336\273\305G";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.46 {
+  starts epoch 1533647063; # Tue Aug 07 16:04:23 2018
+  ends epoch 1533668663; # Tue Aug 07 22:04:23 2018
+  tstp epoch 1533668663; # Tue Aug 07 22:04:23 2018
+  cltt epoch 1533647063; # Tue Aug 07 16:04:23 2018
+  binding state free;
+  hardware ethernet 44:33:4c:57:fe:95;
+  set vendor-class-identifier = "dhcpcd-5.5.6";
+}
+lease 192.168.11.52 {
+  starts epoch 1533822466; # Thu Aug 09 16:47:46 2018
+  ends epoch 1533844066; # Thu Aug 09 22:47:46 2018
+  tstp epoch 1533844066; # Thu Aug 09 22:47:46 2018
+  cltt epoch 1533822466; # Thu Aug 09 16:47:46 2018
+  binding state free;
+  hardware ethernet 78:d7:5f:3f:fe:a2;
+  uid "\001x\327_?\376\242";
+}
+lease 192.168.11.50 {
+  starts epoch 1534078440; # Sun Aug 12 15:54:00 2018
+  ends epoch 1534100040; # Sun Aug 12 21:54:00 2018
+  tstp epoch 1534100040; # Sun Aug 12 21:54:00 2018
+  cltt epoch 1534081469; # Sun Aug 12 16:44:29 2018
+  binding state free;
+  hardware ethernet 78:88:6d:55:92:2f;
+  uid "\001x\210mU\222/";
+}
+lease 192.168.11.51 {
+  starts epoch 1534082038; # Sun Aug 12 16:53:58 2018
+  ends epoch 1534103638; # Sun Aug 12 22:53:58 2018
+  tstp epoch 1534103638; # Sun Aug 12 22:53:58 2018
+  cltt epoch 1534082038; # Sun Aug 12 16:53:58 2018
+  binding state free;
+  hardware ethernet d8:63:75:2c:ab:52;
+  uid "\001\330cu,\253R";
+  set vendor-class-identifier = "android-dhcp-7.1.2";
+}
+lease 192.168.11.54 {
+  starts epoch 1534158367; # Mon Aug 13 14:06:07 2018
+  ends epoch 1534179967; # Mon Aug 13 20:06:07 2018
+  tstp epoch 1534179967; # Mon Aug 13 20:06:07 2018
+  cltt epoch 1534161803; # Mon Aug 13 15:03:23 2018
+  binding state free;
+  hardware ethernet b8:ee:65:69:33:57;
+  uid "\001\270\356ei3W";
+  set vendor-class-identifier = "MSFT 5.0";
+}
+lease 192.168.11.55 {
+  starts epoch 1534158370; # Mon Aug 13 14:06:10 2018
+  ends epoch 1534179970; # Mon Aug 13 20:06:10 2018
+  tstp epoch 1534179970; # Mon Aug 13 20:06:10 2018
+  cltt epoch 1534158370; # Mon Aug 13 14:06:10 2018
+  binding state free;
+  hardware ethernet 08:00:27:a6:63:98;
+  uid "\001\010\000'\246c\230";
+  set vendor-class-identifier = "android-dhcp-7.1.1";
+}
+lease 192.168.11.56 {
+  starts epoch 1534158952; # Mon Aug 13 14:15:52 2018
+  ends epoch 1534180552; # Mon Aug 13 20:15:52 2018
+  tstp epoch 1534180552; # Mon Aug 13 20:15:52 2018
+  cltt epoch 1534161650; # Mon Aug 13 15:00:50 2018
+  binding state free;
+  hardware ethernet 08:00:27:a7:f2:17;
+  uid "\001\010\000'\247\362\027";
+  set vendor-class-identifier = "android-dhcp-7.1.1";
+}
+lease 192.168.11.53 {
+  starts epoch 1534316044; # Wed Aug 15 09:54:04 2018
+  ends epoch 1534337644; # Wed Aug 15 15:54:04 2018
+  cltt epoch 1534316044; # Wed Aug 15 09:54:04 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:7c:5f:51:bb:5c;
+  uid "\001L|_Q\273\\";
+  client-hostname "iPhone";
+}
+lease 192.168.11.14 {
+  starts epoch 1534323134; # Wed Aug 15 11:52:14 2018
+  ends epoch 1534344734; # Wed Aug 15 17:52:14 2018
+  cltt epoch 1534323134; # Wed Aug 15 11:52:14 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 58:40:4e:e8:c9:44;
+  uid "\001X@N\350\311D";
+  client-hostname "Sezers-iMac";
+}
+lease 192.168.11.10 {
+  starts epoch 1534324005; # Wed Aug 15 12:06:45 2018
+  ends epoch 1534345605; # Wed Aug 15 18:06:45 2018
+  cltt epoch 1534324005; # Wed Aug 15 12:06:45 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d9:e7:6c:22:29;
+  uid "\001D\331\347l\")";
+  set vendor-class-identifier = "ubnt";
+}
+lease 192.168.11.38 {
+  starts epoch 1534326563; # Wed Aug 15 12:49:23 2018
+  ends epoch 1534348163; # Wed Aug 15 18:49:23 2018
+  cltt epoch 1534326563; # Wed Aug 15 12:49:23 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet b0:70:2d:d5:2f:d7;
+  uid "\001\260p-\325/\327";
+  client-hostname "Dorukhan-iphone";
+}
+lease 192.168.11.24 {
+  starts epoch 1534326634; # Wed Aug 15 12:50:34 2018
+  ends epoch 1534348234; # Wed Aug 15 18:50:34 2018
+  cltt epoch 1534326634; # Wed Aug 15 12:50:34 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:10:e4:e2:ff:9e;
+  uid "\0010\020\344\342\377\236";
+  client-hostname "cArleone";
+}
+lease 192.168.11.11 {
+  starts epoch 1534327196; # Wed Aug 15 12:59:56 2018
+  ends epoch 1534348796; # Wed Aug 15 18:59:56 2018
+  cltt epoch 1534327196; # Wed Aug 15 12:59:56 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 58:40:4e:e8:ca:f0;
+  uid "\001X@N\350\312\360";
+  client-hostname "Dorukhans-iMac";
+}
+lease 192.168.11.47 {
+  starts epoch 1534327862; # Wed Aug 15 13:11:02 2018
+  ends epoch 1534349462; # Wed Aug 15 19:11:02 2018
+  cltt epoch 1534329396; # Wed Aug 15 13:36:36 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:96:cf:a6:e6:0e;
+  uid "\001l\226\317\246\346\016";
+  client-hostname "zelihs-iPhone";
+}
+lease 192.168.11.25 {
+  starts epoch 1534328320; # Wed Aug 15 13:18:40 2018
+  ends epoch 1534349920; # Wed Aug 15 19:18:40 2018
+  cltt epoch 1534328349; # Wed Aug 15 13:19:09 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 58:40:4e:bc:c9:32;
+  uid "\001X@N\274\3112";
+  client-hostname "Sezgin-iPhoneu";
+}
+lease 192.168.11.36 {
+  starts epoch 1534328866; # Wed Aug 15 13:27:46 2018
+  ends epoch 1534350466; # Wed Aug 15 19:27:46 2018
+  cltt epoch 1534331642; # Wed Aug 15 14:14:02 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 58:40:4e:e8:c7:80;
+  uid "\001X@N\350\307\200";
+  client-hostname "Sezgins-iMac";
+}
+lease 192.168.11.57 {
+  starts epoch 1534328982; # Wed Aug 15 13:29:42 2018
+  ends epoch 1534350582; # Wed Aug 15 19:29:42 2018
+  cltt epoch 1534328982; # Wed Aug 15 13:29:42 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet d4:dc:cd:b3:8c:be;
+  uid "\001\324\334\315\263\214\276";
+  client-hostname "Sinan-iPhoneu";
+}
+lease 192.168.11.18 {
+  starts epoch 1534332578; # Wed Aug 15 14:29:38 2018
+  ends epoch 1534354178; # Wed Aug 15 20:29:38 2018
+  cltt epoch 1534332578; # Wed Aug 15 14:29:38 2018
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 50:b7:c3:3d:e1:15;
+  uid "\001P\267\303=\341\025";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "DESKTOP-G8RRHC7";
+}
